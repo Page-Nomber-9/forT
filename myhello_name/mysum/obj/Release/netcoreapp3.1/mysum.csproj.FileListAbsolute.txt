@@ -1,0 +1,14 @@
+E:\дз\Алг\myhello_name\mysum\bin\Release\netcoreapp3.1\mysum.exe
+E:\дз\Алг\myhello_name\mysum\bin\Release\netcoreapp3.1\mysum.deps.json
+E:\дз\Алг\myhello_name\mysum\bin\Release\netcoreapp3.1\mysum.runtimeconfig.json
+E:\дз\Алг\myhello_name\mysum\bin\Release\netcoreapp3.1\mysum.runtimeconfig.dev.json
+E:\дз\Алг\myhello_name\mysum\bin\Release\netcoreapp3.1\mysum.dll
+E:\дз\Алг\myhello_name\mysum\bin\Release\netcoreapp3.1\mysum.pdb
+E:\дз\Алг\myhello_name\mysum\obj\Release\netcoreapp3.1\mysum.csproj.AssemblyReference.cache
+E:\дз\Алг\myhello_name\mysum\obj\Release\netcoreapp3.1\mysum.GeneratedMSBuildEditorConfig.editorconfig
+E:\дз\Алг\myhello_name\mysum\obj\Release\netcoreapp3.1\mysum.AssemblyInfoInputs.cache
+E:\дз\Алг\myhello_name\mysum\obj\Release\netcoreapp3.1\mysum.AssemblyInfo.cs
+E:\дз\Алг\myhello_name\mysum\obj\Release\netcoreapp3.1\mysum.csproj.CoreCompileInputs.cache
+E:\дз\Алг\myhello_name\mysum\obj\Release\netcoreapp3.1\mysum.dll
+E:\дз\Алг\myhello_name\mysum\obj\Release\netcoreapp3.1\mysum.pdb
+E:\дз\Алг\myhello_name\mysum\obj\Release\netcoreapp3.1\mysum.genruntimeconfig.cache

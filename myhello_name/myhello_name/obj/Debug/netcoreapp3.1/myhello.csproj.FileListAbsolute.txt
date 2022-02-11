@@ -1,0 +1,14 @@
+E:\дз\Алг\myhello_name\myhello_name\bin\Debug\netcoreapp3.1\myhello.exe
+E:\дз\Алг\myhello_name\myhello_name\bin\Debug\netcoreapp3.1\myhello.deps.json
+E:\дз\Алг\myhello_name\myhello_name\bin\Debug\netcoreapp3.1\myhello.runtimeconfig.json
+E:\дз\Алг\myhello_name\myhello_name\bin\Debug\netcoreapp3.1\myhello.runtimeconfig.dev.json
+E:\дз\Алг\myhello_name\myhello_name\bin\Debug\netcoreapp3.1\myhello.dll
+E:\дз\Алг\myhello_name\myhello_name\bin\Debug\netcoreapp3.1\myhello.pdb
+E:\дз\Алг\myhello_name\myhello_name\obj\Debug\netcoreapp3.1\myhello.csproj.AssemblyReference.cache
+E:\дз\Алг\myhello_name\myhello_name\obj\Debug\netcoreapp3.1\myhello.GeneratedMSBuildEditorConfig.editorconfig
+E:\дз\Алг\myhello_name\myhello_name\obj\Debug\netcoreapp3.1\myhello.AssemblyInfoInputs.cache
+E:\дз\Алг\myhello_name\myhello_name\obj\Debug\netcoreapp3.1\myhello.AssemblyInfo.cs
+E:\дз\Алг\myhello_name\myhello_name\obj\Debug\netcoreapp3.1\myhello.csproj.CoreCompileInputs.cache
+E:\дз\Алг\myhello_name\myhello_name\obj\Debug\netcoreapp3.1\myhello.dll
+E:\дз\Алг\myhello_name\myhello_name\obj\Debug\netcoreapp3.1\myhello.pdb
+E:\дз\Алг\myhello_name\myhello_name\obj\Debug\netcoreapp3.1\myhello.genruntimeconfig.cache
