@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Chisla\Chisla\bin\Debug\netcoreapp3.1\Chisla.exe
+C:\Users\User\source\repos\Chisla\Chisla\bin\Debug\netcoreapp3.1\Chisla.deps.json
+C:\Users\User\source\repos\Chisla\Chisla\bin\Debug\netcoreapp3.1\Chisla.runtimeconfig.json
+C:\Users\User\source\repos\Chisla\Chisla\bin\Debug\netcoreapp3.1\Chisla.runtimeconfig.dev.json
+C:\Users\User\source\repos\Chisla\Chisla\bin\Debug\netcoreapp3.1\Chisla.dll
+C:\Users\User\source\repos\Chisla\Chisla\bin\Debug\netcoreapp3.1\Chisla.pdb
+C:\Users\User\source\repos\Chisla\Chisla\obj\Debug\netcoreapp3.1\Chisla.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Chisla\Chisla\obj\Debug\netcoreapp3.1\Chisla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Chisla\Chisla\obj\Debug\netcoreapp3.1\Chisla.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Chisla\Chisla\obj\Debug\netcoreapp3.1\Chisla.AssemblyInfo.cs
+C:\Users\User\source\repos\Chisla\Chisla\obj\Debug\netcoreapp3.1\Chisla.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Chisla\Chisla\obj\Debug\netcoreapp3.1\Chisla.dll
+C:\Users\User\source\repos\Chisla\Chisla\obj\Debug\netcoreapp3.1\Chisla.pdb
+C:\Users\User\source\repos\Chisla\Chisla\obj\Debug\netcoreapp3.1\Chisla.genruntimeconfig.cache

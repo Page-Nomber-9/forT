@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Chisla\ArMax\bin\Debug\netcoreapp3.1\ArMax.exe
+C:\Users\User\source\repos\Chisla\ArMax\bin\Debug\netcoreapp3.1\ArMax.deps.json
+C:\Users\User\source\repos\Chisla\ArMax\bin\Debug\netcoreapp3.1\ArMax.runtimeconfig.json
+C:\Users\User\source\repos\Chisla\ArMax\bin\Debug\netcoreapp3.1\ArMax.runtimeconfig.dev.json
+C:\Users\User\source\repos\Chisla\ArMax\bin\Debug\netcoreapp3.1\ArMax.dll
+C:\Users\User\source\repos\Chisla\ArMax\bin\Debug\netcoreapp3.1\ArMax.pdb
+C:\Users\User\source\repos\Chisla\ArMax\obj\Debug\netcoreapp3.1\ArMax.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Chisla\ArMax\obj\Debug\netcoreapp3.1\ArMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Chisla\ArMax\obj\Debug\netcoreapp3.1\ArMax.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Chisla\ArMax\obj\Debug\netcoreapp3.1\ArMax.AssemblyInfo.cs
+C:\Users\User\source\repos\Chisla\ArMax\obj\Debug\netcoreapp3.1\ArMax.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Chisla\ArMax\obj\Debug\netcoreapp3.1\ArMax.dll
+C:\Users\User\source\repos\Chisla\ArMax\obj\Debug\netcoreapp3.1\ArMax.pdb
+C:\Users\User\source\repos\Chisla\ArMax\obj\Debug\netcoreapp3.1\ArMax.genruntimeconfig.cache
