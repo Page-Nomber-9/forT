@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apteka", "Apteka\Apteka.csproj", "{AE4802B3-DE92-4590-8044-30EE6BFD688B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank", "Bank\Bank.csproj", "{927DF0BE-1B75-4103-9986-99A9FEF01E21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE4802B3-DE92-4590-8044-30EE6BFD688B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE4802B3-DE92-4590-8044-30EE6BFD688B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE4802B3-DE92-4590-8044-30EE6BFD688B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE4802B3-DE92-4590-8044-30EE6BFD688B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{927DF0BE-1B75-4103-9986-99A9FEF01E21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{927DF0BE-1B75-4103-9986-99A9FEF01E21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{927DF0BE-1B75-4103-9986-99A9FEF01E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{927DF0BE-1B75-4103-9986-99A9FEF01E21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C6931DB-4F60-433C-B07F-600CF333F13E}
+	EndGlobalSection
+EndGlobal

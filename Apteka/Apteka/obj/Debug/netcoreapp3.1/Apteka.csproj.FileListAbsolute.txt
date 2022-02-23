@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Apteka\Apteka\obj\Debug\netcoreapp3.1\Apteka.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Apteka\Apteka\obj\Debug\netcoreapp3.1\Apteka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Apteka\Apteka\obj\Debug\netcoreapp3.1\Apteka.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Apteka\Apteka\obj\Debug\netcoreapp3.1\Apteka.AssemblyInfo.cs
+C:\Users\User\source\repos\Apteka\Apteka\obj\Debug\netcoreapp3.1\Apteka.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Apteka\Apteka\bin\Debug\netcoreapp3.1\Apteka.exe
+C:\Users\User\source\repos\Apteka\Apteka\bin\Debug\netcoreapp3.1\Apteka.deps.json
+C:\Users\User\source\repos\Apteka\Apteka\bin\Debug\netcoreapp3.1\Apteka.runtimeconfig.json
+C:\Users\User\source\repos\Apteka\Apteka\bin\Debug\netcoreapp3.1\Apteka.runtimeconfig.dev.json
+C:\Users\User\source\repos\Apteka\Apteka\bin\Debug\netcoreapp3.1\Apteka.dll
+C:\Users\User\source\repos\Apteka\Apteka\bin\Debug\netcoreapp3.1\Apteka.pdb
+C:\Users\User\source\repos\Apteka\Apteka\obj\Debug\netcoreapp3.1\Apteka.dll
+C:\Users\User\source\repos\Apteka\Apteka\obj\Debug\netcoreapp3.1\Apteka.pdb
+C:\Users\User\source\repos\Apteka\Apteka\obj\Debug\netcoreapp3.1\Apteka.genruntimeconfig.cache
