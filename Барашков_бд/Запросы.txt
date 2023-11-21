@@ -1,0 +1,29 @@
+а
+Update [dbo].[Material] Set material_remainder = material_remainder - material_remainder / 10;
+
+б
+Update [dbo].[Material] Set material_stock_id = 3 Where material_stock_id = 2;
+
+в
+Select stock_address, stock_kinds_material, stock_distance from [dbo].[Stock];
+
+г
+Select * from [dbo].[Material] Where material_stock_id = 5;
+
+д
+Select material_stock_id, material_remainder, material_unit, material_name, material_id from [dbo].[Material];
+
+е
+Select Distinct [material_stock_id] from [dbo].[Material];
+
+ж
+select material_name, material_stock_id  from [dbo].[Material] where material_remainder =
+	(Select
+		MAX(material_remainder)
+	from [dbo].[Material]);
+
+з
+Не справился с заданием
+
+и
+Delete from [dbo].[Material] where material_stock_id = 1;
